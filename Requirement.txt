@@ -1,0 +1,4 @@
+sqlite3
+pycryptodomex
+base64
+csv
