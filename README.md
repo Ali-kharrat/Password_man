@@ -5,7 +5,7 @@ data store in sqlite database and
 
 ## Usage
 
-```bash
+```text
 1 - ADD new user name and password
 2 - see a your password
 3 - export all data (CSV)
@@ -16,7 +16,7 @@ what do you wnat?
 for use this feature you should choose a number of that
 example:
 
-```bash
+```text
 1 - ADD new user name and password
 2 - see a your password
 3 - export all data (CSV)
@@ -24,7 +24,7 @@ example:
 what do you wnat? 1
 ```
 next step:
-```bash
+```text
 ADD New Password
 -------------------------
 website:
