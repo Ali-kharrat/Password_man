@@ -1,7 +1,7 @@
 # Password_man
 
-password manager write by python that save your password and show 
-data store in sqlite database and
+password manager by python that save your password and show 
+data store in sqlite database
 
 ## Usage
 
